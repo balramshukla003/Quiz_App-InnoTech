@@ -47,7 +47,7 @@ The **InnoTech Quiz Application** is an engaging and interactive platform design
 ---
 
 ### **4. Home Page**
-![Home Page](https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/home.png?raw=true)
+![Home Page]([https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/home.png?raw=true](https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/loggedIN%20Page.png?raw=true))
 
 ---
 
