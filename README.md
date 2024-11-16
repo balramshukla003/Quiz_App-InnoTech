@@ -1,7 +1,7 @@
 
-<h1>
-  <img src="https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/Logo.png?raw=true" alt="InnoTech Logo" width="50" height="50" style="vertical-align: middle; margin-right: 10px; margin-top:5px">
-  <span style="vertical-align: middle;">InnoTech Quiz Application</span>
+<h1 style="display:flex;align-item:centre;">
+  <img src="https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/Logo.png?raw=true" alt="InnoTech Logo" width="50" height="50" style="margin-right: 20px;">
+  <span>InnoTech Quiz Application</span>
 </h1>
 
 
