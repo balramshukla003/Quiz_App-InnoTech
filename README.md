@@ -30,28 +30,29 @@ The **InnoTech Quiz Application** is an engaging and interactive platform design
 
 ## 📸 **Screenshots**
 
-### **1. Login Page**
+### **1. Landing Page**
 ![Login Page](https://via.placeholder.com/600x300?text=Login+Page+Screenshot) <!-- Replace with a real screenshot -->
 
 ---
 
-### **2. Quiz Dashboard**
+### **2. Login Dashboard**
 ![Quiz Dashboard](https://via.placeholder.com/600x300?text=Quiz+Dashboard+Screenshot) <!-- Replace with a real screenshot -->
 
 ---
 
-### **3. Question Management (Teacher View)**
+### **3. Registeration Dashboard**
 ![Question Management](https://via.placeholder.com/600x300?text=Question+Management+Screenshot) <!-- Replace with a real screenshot -->
 
 ---
 
-## 🔗 **Installation and Setup**
+### **4. Home Page**
+![Question Management](https://via.placeholder.com/600x300?text=Question+Management+Screenshot) <!-- Replace with a real screenshot -->
 
-### Prerequisites
-- **Node.js** v22.8.0 or higher
-- **MySQL** (port 3306 or your preferred setup)
+---
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/innoTech-quiz.git
+### **5. Quiz Page**
+![Question Management](https://via.placeholder.com/600x300?text=Question+Management+Screenshot) <!-- Replace with a real screenshot -->
+
+---
+
+
