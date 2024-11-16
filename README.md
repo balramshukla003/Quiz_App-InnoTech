@@ -31,27 +31,27 @@ The **InnoTech Quiz Application** is an engaging and interactive platform design
 ## 📸 **Screenshots**
 
 ### **1. Landing Page**
-![Login Page](https://via.placeholder.com/600x300?text=Login+Page+Screenshot) <!-- Replace with a real screenshot -->
+![Landing Page]([https://via.placeholder.com/600x300?text=Login+Page+Screenshot](https://github.com/balramshukla003/Quiz_App-InnoTech/blob/dd54f339c647f916b0246c03caa89da49fe864c7/Screenshots/Logo.png)) <!-- Replace with a real screenshot -->
 
 ---
 
 ### **2. Login Dashboard**
-![Quiz Dashboard](https://via.placeholder.com/600x300?text=Quiz+Dashboard+Screenshot) <!-- Replace with a real screenshot -->
+![Login Dashboard]([https://via.placeholder.com/600x300?text=Quiz+Dashboard+Screenshot](https://github.com/balramshukla003/Quiz_App-InnoTech/blob/dd54f339c647f916b0246c03caa89da49fe864c7/Screenshots/login.png)) <!-- Replace with a real screenshot -->
 
 ---
 
 ### **3. Registeration Dashboard**
-![Question Management](https://via.placeholder.com/600x300?text=Question+Management+Screenshot) <!-- Replace with a real screenshot -->
+![Registeration Dashboard]([https://via.placeholder.com/600x300?text=Question+Management+Screenshot](https://github.com/balramshukla003/Quiz_App-InnoTech/blob/dd54f339c647f916b0246c03caa89da49fe864c7/Screenshots/registeration.png)) <!-- Replace with a real screenshot -->
 
 ---
 
 ### **4. Home Page**
-![Question Management](https://via.placeholder.com/600x300?text=Question+Management+Screenshot) <!-- Replace with a real screenshot -->
+![Home Page ]([https://via.placeholder.com/600x300?text=Question+Management+Screenshot](https://github.com/balramshukla003/Quiz_App-InnoTech/blob/dd54f339c647f916b0246c03caa89da49fe864c7/Screenshots/home.png)) <!-- Replace with a real screenshot -->
 
 ---
 
 ### **5. Quiz Page**
-![Question Management](https://via.placeholder.com/600x300?text=Question+Management+Screenshot) <!-- Replace with a real screenshot -->
+![Quiz Dashboard]([https://via.placeholder.com/600x300?text=Question+Management+Screenshot](https://github.com/balramshukla003/Quiz_App-InnoTech/blob/dd54f339c647f916b0246c03caa89da49fe864c7/Screenshots/quiz%20page.png)) <!-- Replace with a real screenshot -->
 
 ---
 
