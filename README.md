@@ -1,6 +1,6 @@
 
 <h1>
-  <img src="https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/Logo.png?raw=true" alt="InnoTech Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/Logo.png?raw=true" alt="InnoTech Logo" width="30" height="30" style="vertical-align: middle; horizontal-align:middle; margin-right: 10px;">
   <span style="vertical-align: middle;">InnoTech Quiz Application</span>
 </h1>
 
