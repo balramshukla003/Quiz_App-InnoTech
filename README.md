@@ -1,6 +1,5 @@
-# 📚 **InnoTech Quiz Application**
 
-<img src="https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/Logo.png?raw=true" alt="InnoTech Logo" width="30" height="30">
+#<img src="https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/Logo.png?raw=true" alt="InnoTech Logo" width="30" height="30"> *InnoTech Quiz Application**
 
 The **InnoTech Quiz Application** is an engaging and interactive platform designed for both students and teachers. It allows students to take quizzes and access educational resources, while teachers can host quizzes. Built with modern web technologies, this application ensures a seamless and enjoyable user experience.
 
