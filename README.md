@@ -1,7 +1,7 @@
 
 <h1 style="display:flex;align-item:centre;">
   <img src="https://github.com/balramshukla003/Quiz_App-InnoTech/blob/main/Screenshots/Logo.png?raw=true" alt="InnoTech Logo" width="50" height="50" style="margin-right: 20px; padding-bottom:0px;">
-  <span>InnoTech Quiz Application</span>
+  <span>InnoTech Learning Platorm</span>
 </h1>
 
 
